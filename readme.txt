@@ -9,4 +9,5 @@ Files included:
 - index.html
 - guides.html
 - resources.html
+- about.html
 - styles.css
