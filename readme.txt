@@ -1,13 +1,15 @@
 Assignment 12.1: Final Project - HTML & CSS
 
 Description:
-This homepage template for CyberSecure introduces users to basic cybersecurity practices. The HTML documents (index.html, guides.html, resources.html) clearly define sections such as the header, navigation, main content, sidebar, and footer, providing easy navigation and a user-friendly interface. Each page includes online placeholder images for demonstration purposes.
+This website project for CyberSecure introduces users to basic cybersecurity practices. The site is built with semantic HTML5 and styled using a custom external CSS stylesheet (`style.css`).
 
-CSS styling (styles.css) includes a modern, responsive layout, readable typography, and a color scheme emphasizing professionalism and clarity. It employs CSS Grid for content alignment, adding a professional touch to the design.
+The HTML documents (`index.html`, `guides.html`, `resources.html`, `about.html`) clearly define the page structure with sections such as `<header>`, `<nav>`, `<main>`, `<section>`, `<aside>`, and `<footer>` to provide easy navigation and a user-friendly interface.
+
+The CSS styling in `style.css` creates a modern, responsive, dark-themed layout. It uses CSS Grid and Flexbox for content alignment and media queries to ensure the design adapts to different screen sizes, providing a professional and clear user experience.
 
 Files included:
 - index.html
 - guides.html
 - resources.html
 - about.html
-- styles.css
+- style.css
